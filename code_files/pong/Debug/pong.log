@@ -1,0 +1,118 @@
+﻿  ball_class.cpp
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(24,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(27,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(30,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.cpp(20,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.cpp(31,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  snowman_class.cpp
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\snowman_class.cpp(11,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\snowman_class.cpp(12,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\snowman_class.cpp(15,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\snowman_class.cpp(27,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\snowman_class.cpp(28,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\snowman_class.cpp(31,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  game_manager_class.cpp
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(24,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(27,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(30,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(45,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(48,38): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(51,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(54,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_manager_class.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(24,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(27,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\ball_class.h(30,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(45,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(48,38): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(51,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(54,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\graphics_renderer.cpp(75,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\graphics_renderer.cpp(76,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\graphics_renderer.cpp(77,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\graphics_renderer.cpp(78,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(357,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(358,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(362,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(363,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(367,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(368,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(372,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(379,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(384,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(387,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(390,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(407,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(407,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(407,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(407,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(408,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(408,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(409,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(409,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(418,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(419,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(423,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(424,45): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(427,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(427,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(428,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(428,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(434,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(434,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(434,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(434,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(435,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(435,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(435,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(435,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(460,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(467,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(467,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(467,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(467,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(468,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(468,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(469,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(469,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(486,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(487,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(487,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(488,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(488,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(489,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(489,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(490,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(491,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(491,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(492,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(492,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(495,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(496,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(500,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(501,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(502,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(503,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(504,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(505,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(524,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(525,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(528,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(529,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(535,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(535,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(535,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(535,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(536,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(536,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(536,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\game_play.cpp(536,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\main.cpp(14,5): warning C4007: 'WinMain': must be '__stdcall'
+  paddle_class.cpp
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(45,37): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(48,38): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(51,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\pong\paddle_class.h(54,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  pong.vcxproj -> C:\Users\Sreya\Documents\Freelance Robotics\Code Files\pong\Debug\pong.exe
